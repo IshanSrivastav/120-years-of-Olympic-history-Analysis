@@ -22,7 +22,7 @@ This project is a web application that provides an interactive analysis of 120 y
   
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: Streamlit
 - **Backend**: Python (Flask)
 - **Data Visualization**: Matplotlib, Plotly
 - **Hosting**: Render
